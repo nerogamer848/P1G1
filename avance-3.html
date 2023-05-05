@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Primera Pag Web</title>
+</head>
+<body>
+
+<h1>avance 3<h1>
+<h2>Universidad Privada Cumbre</h2>
+<h1>Bryan Carrasco Cruz</h1>
+
+
+	<button onclick="MyPrimerAlgoritmouno()">
+		Es N mayor a 7 ?
+	</button>
+	<button onclick="MyPrimerAlgoritmodos()">
+	A y B, cual es MENOR ?
+	</button>
+	<button onclick="MyPrimerAlgoritmotres()">
+		N deltro del rango 7 y 15
+	</button>
+	<script>
+	//CODIGO DE PROGRAMACION - INICIO
+	//Ejercicio: Como saber si un numero es mayor a 7
+	function MyPrimerAlgoritmouno(){
+		var numero
+		N = prompt("ingrese N:",45)
+		if(N > 7){
+			alert(N+ " es mayor que 7")
+		}else{
+		alert(N+ "es menor que 7")
+		}
+	}
+
+	//Ejercicio: Dado 2 numeros A y B, retomar el Numero con MENOR valor
+	function Algoritmodos() {
+			var A = prompt("ingrese A: ", "8")
+			var B = prompt("ingrese B: ", "5")
+			if (A > B) {
+				alert(B + " es menor")
+			}else {
+				alert(A + " es menor")
+			}
+	}
+	//Ejercicio: Dado un numero N, retornar si se encuentra DENTRO del rango de 7 y 15
+		var N = prompt("ingrese N:", 9);
+		var A = 7
+		var B = 15
+		if((N > A)&&(N < B)){
+			alert(N + " esta DENTRO del rango")
+		}else{
+			alert(N+ " esta FUERA del rango")
+		}
+</script>
+
+	</body>
+	</html>
