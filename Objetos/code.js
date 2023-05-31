@@ -4,18 +4,13 @@ function VerPersonas(){
     
     persona1.SetNombre("Bryan")
     persona1.SetEdad("15")
-    var name = persona1.GetNombre()
+    persona1.GetNombre(1000)
+
+    var materia1 = new materia()
+    materia1.SetCapacidad(21)
+    materia1.SetAula("B206")
     
-    if(persona1.GetEdad() > 18){
-     
-        alert("Usted es mayor de edad")
     
-    }else{
-     
-        alert("vuelva pronto")
-    }
-
-
-alert(name)
-
+    alert(persona1.toString())
+    alert(materia1.toString())
 }

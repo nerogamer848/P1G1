@@ -14,7 +14,7 @@ class persona{
 
         //4.- SETTERS AND GETTERS - DAR Y OBTENER UN VALOR
         GetCarnet(){
-            return carnet
+            return this.carnet
         }
 
         GetNombre(){
@@ -38,6 +38,13 @@ class persona{
         }
 
     //5.- LOS METODOS DE LA CLASE , 0.......N
+        toString(){
+            return this.GetCarnet()
+            +" "
+            +this.GetNombre()
+            +" "
+            +this.GetEdad()
+        }
     ContarVocales (){
         var cadena = THIS.Getnombre()
         var longitudCad = cadena.length
