@@ -1,0 +1,14 @@
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.AssemblyInfo.cs
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\bin\Debug\net7.0\PRIMER_PARCIAL.exe
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\bin\Debug\net7.0\PRIMER_PARCIAL.deps.json
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\bin\Debug\net7.0\PRIMER_PARCIAL.runtimeconfig.json
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\bin\Debug\net7.0\PRIMER_PARCIAL.dll
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\bin\Debug\net7.0\PRIMER_PARCIAL.pdb
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.dll
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\refint\PRIMER_PARCIAL.dll
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.pdb
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\PRIMER_PARCIAL.genruntimeconfig.cache
+C:\Users\alumno\Documents\GitHub\PRO2-UPC\bcarrasco\PRIMER_PARCIAL\obj\Debug\net7.0\ref\PRIMER_PARCIAL.dll
